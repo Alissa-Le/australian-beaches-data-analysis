@@ -1,0 +1,116 @@
+Name,Type,Latitude,Longitude,Region,Accessibility,Facilities_Rating,Water_Quality_Rating,Beach_Type,Patrolled,Shark_Net,Average_Wave_Height_m,Beach_Length_km,General_Hazard_Rating,Dogs_Allowed,Flags,Nearest_Town,Distance_to_Town_km,Annual_Visitors
+Royal National Park Garie Beach,Beach,-34.164,151.061,Royal NP,Moderate,3,4,Surf,Yes,No,1.2,1.2,3,Restricted,Red/Yellow,Loftus,22,78419
+Crystal Creek Swimming Hole,Freshwater,-28.29,153.283,North Coast,Difficult,2,5,River,No,No,0.0,0.5,2,,,Murwillumbah,15,23391
+Clovelly Ocean Pool,Rockpool,-33.911,151.264,Sydney,Good,4,4,Ocean Pool,Yes,Yes,0.0,0.1,1,,Red/Yellow,Sydney,9,253637
+Hyams Beach,Beach,-35.111,150.6993,South Coast,G,4,5,Bay,No,No,0.2,0.6,2,,,Huskisson,9,281322
+Coogee Beach,Beach,-33.92,151.258,Sydney,Excellent,5,4,Bay,Yes,Yes,0.8,0.6,2,,Red/Yellow,Sydney,9,4059065
+Bondi Icebergs Pool,Rockpool,-33.8925,151.2765,Sydney,Excellent,5,4,Ocean Pool,Yes,Yes,0.0,0.1,1,,Red/Yellow,Sydney,7,552651
+Wanda Beach,Beach,-34.0565,151.167,Sydney,Moderate,3,4,Surf,Yes,No,1.3,1.2,3,Restricted,Red/Yellow,Cronulla,3,197411
+Killen Falls Swimming Hole,Freshwater,-28.803,153.494,North Coast,Diffcult,2,5,River,No,No,0.0,0.5,2,Yes,,Ballina,20,6907
+Macmasters Beach,Beach,-33.496,151.427,Central Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Macmasters,1,935662
+Tathra Beach,Beach,-36.732,149.981,South Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Tathra,1,771844
+Pambula Beach,Beach,-36.938,149.908,South Coast,G,4,4,Surf,Yes,No,0.9,1.2,3,,Red/Yellow,Pambula,1,797008
+Bondi Beach,Beach,-33.8915,151.2767,Sydney,Excellent,5,5,Surf,Yes,Yes,1.8,,3,,Red/Yellow,Sydney,7,3814202
+Batemans Bay Swim Enclosure,Beach,-35.713,150.184,South Coast,Moderate,3,,Bay,Yes,No,0.2,0.6,2,Restricted,Red/Yellow,Batemans Bay,1,151252
+Byron Main Beach,Beach,-28.643,153.612,North Coast,Excellent,5,5,Surf,Yes,No,1.5,1.2,3,,Red/Yellow,Byron Bay,1,4681103
+Forster Main Beach,Beach,-32.178,152.506,Mid North Coast,Good,4,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Forster,1,1012118
+Austinmer Beach,Beach,-34.3105,150.939,Illawarra,Good,4,4,Bay,Yes,No,0.8,0.6,2,Restricted,Red/Yellow,Austinmer,1,1083502
+Turners Beach Yamba,Beach,-29.4305,153.363,North Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Yamba,1,1077800
+Port Macquarie Town Beach,Beach,-31.432,152.921,Mid North Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Port Macquarie,1,798514
+Griffith Lake Wyangan,Freshwater,-34.235,146.042,Riverina,Moderate,3,3,Lake,No,No,0.0,1.5,1,Yes,,Griffith,8,95931
+Pottsville Main Beach,Beach,-28.387,153.572,North Coast,Moderate,3,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Pottsville,1,104553
+Ballina Lighthouse Beach,Beach,-28.863,153.599,North Coast,Good,4,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Ballina,3,285786
+Fingal Bay Beach,Beach,-32.744,152.18,Port Stephens,Good,4,4,Surf,Yes,No,1.0,1.2,3,,Red/Yellow,Fingal Bay,0,701047
+Collaroy Beach,Beach,-33.731,151.302,Sydney,Good,4,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Sydney,22,183991
+Greenfield Beach,Beach,-35.0753,150.6676,Jervis Bay,Good,4,5,Bay,No,No,0.2,0.6,2,,,Vincentia,4,855774
+Rocky Creek Dam Swim,Freshwater,-28.678,153.367,North Coast,Difficult,2,4,Lake,No,No,0.0,1.5,1,,,Lismore,18,11864
+Dee Why Beach,Beach,-33.7515,151.2965,Sydney,Good,4,4,Surf,Yes,No,1.3,1.2,3,,Red/Yellow,Sydney,22,704767
+Arrawarra Beach,Beach,-30.107,153.197,North Coast,Moderate,3,4,Surf,No,No,1.0,1.2,3,Restricted,,Corindi,8,65783
+Thredbo River Swim Spot,Freshwater,-36.515,148.298,Snowy Mountains,Diff.,2,4,River,No,No,0.0,0.5,2,Yes,,Thredbo,5,3615
+North Narrabeen Rockpool,Rockpool,-33.704,151.303,Sydney,Good,4,4,Ocean Pool,Yes,No,0.0,0.1,1,Yes,Red/Yellow,Sydney,28,135305
+Shellharbour Ocean Pool,Rockpool,-34.5795,150.879,Illawarra,Moderate,3,4,Ocean Pool,Yes,No,0.0,0.1,1,Yes,Red/Yellow,Shellharbour,2,168666
+Merewether Beach,Beach,-32.947,151.758,Newcastle,Excellent,5,4,Surf,Yes,No,1.4,1.2,3,,Red/Yellow,Newcastle,3,3302334
+Bateau Bay Beach,Beach,-33.393,151.481,Central Coast,Moderate,3,4,Bay,Yes,No,0.4,0.6,2,,Red/Yellow,The Entrance,7,159815
+Flynns Beach,Beach,-31.4401,152.928,Mid North Coast,Good,4,4,Bay,Yes,No,0.7,,2,Restricted,Red/Yellow,Port Macquarie,4,290099
+Brunswick Heads River Beach,Beach,-28.544,153.555,North Coast,Good,4,4,Estuary,Yes,No,0.2,0.5,2,Restricted,Red/Yellow,Brunswick Heads,1,1062877
+Brighton Le Sands Beach,Beach,-33.975,151.151,Sydney,Good,4,3,Bay,Yes,No,0.2,0.6,2,,Red/Yellow,Sydney,12,583871
+The Entrance Ocean Baths,Rockpool,-33.343,151.497,Central Coast,Good,4,4,Ocean Pool,Yes,No,0.0,,1,,Red/Yellow,The Entrance,0,711715
+Iluka Bluff Beach,Beach,-29.397,153.371,North Coast,Moderate,3,4,Surf,No,No,1.0,1.2,3,,,Iluka,3,172147
+Angourie Point Beach,Beach,-29.476,153.3715,North Coast,Moderate,3,5,Surf,No,No,1.8,1.2,3,,,Yamba,7,22125
+Bronte Baths,Rockpool,-33.905,151.267,Sydney,Good,4,4,Ocean Pool,Yes,Yes,0.0,0.1,1,Yes,Red/Yellow,Sydney,8,419617
+Shaws Bay Ballina,Freshwater,-28.869,153.579,North Coast,Moderate,3,4,Estuary,No,No,0.1,0.5,2,,,Ballina,2,131334
+Turimetta Beach,Beach,-33.7045,151.309,Sydney,Moderate,3,4,Surf,No,No,1.2,1.2,3,Restricted,,Sydney,29,19594
+Freshwater Beach,Beach,-33.7775,151.296,Sydney,Good,4,4,Surf,Yes,No,1.2,1.2,3,,Red/Yellow,Sydney,17,384042
+Sharpes Beach,Beach,-28.802,153.606,North Coast,Moderate,3,4,Surf,No,No,1.0,1.2,3,,,Ballina,10,105199
+Bass Point Cove,Beach,-34.5905,150.898,Illawarra,Moderate,3,5,Reef,No,No,0.9,0.5,4,,,Shellharbour,6,157893
+Lake Macquarie Warners Bay Baths,Freshwater,-32.976,151.648,Lake Macquarie,Good,4,3,Lake,No,No,0.0,1.5,1,,,Newcastle,15,98573
+Seal Rocks Beach,Beach,-32.432,152.496,Mid North Coast,Moderate,3,5,Surf,No,No,1.4,1.2,3,,,Seal Rocks,3,173076
+Turners Beach Yamba,Beach,-29.4305,153.363,North Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,,Red/Yellow,Yamba,23,1077800
+Short Point Beach,Beach,-36.879,149.916,South Coast,Moderate,3,4,Surf,No,No,1.0,1.2,3,,,Merimbula,4,139903
+Broulee Main Beach,Beach,-35.856,150.181,South Coast,Good,4,4,Surf,Yes,No,0.9,1.2,3,,Red/Yellow,Broulee,0,1118381
+One Mile Beach NSW,Beach,-32.771,152.102,Port Stephens,Good,4,4,Surf,Yes,No,1.1,1.2,3,Restricted,Red/Yellow,Anna Bay,3,394642
+Jetty Beach Coffs Harbour,Beach,-30.303,153.137,North Coast,Good,4,4,Bay,Yes,No,0.4,0.6,2,,Red/Yellow,Coffs Harbour,1,416708
+Durras North Beach,Beach,-35.638,150.322,South Coast,Difficult,2,4,Surf,No,No,1.2,1.2,3,,,Durras,7,17996
+City Beach Wollongong,Beach,-34.427,150.906,Illawarra,Good,4,4,Surf,Yes,No,1.2,1.2,3,Restricted,Red/Yellow,Wollongong,1,184032
+Shellharbour North Beach,Beach,-34.577,150.872,Illawarra,Good,4,4,Surf,Yes,No,1.1,1.2,3,Restricted,Red/Yellow,Shellharbour,2,848932
+Corlette Foreshore,Beach,-32.718,152.119,Port Stephens,Moderate,3,4,Bay,No,No,0.2,0.6,2,Restricted,,Nelson Bay,4,159912
+Trial Bay Gaol Beach,Beach,-30.882,153.032,Mid North Coast,Good,4,4,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,South West Rocks,3,1005625
+Main Beach Yamba,Beach,-29.434,153.364,North Coast,Good,4,4,Surf,Yes,No,1.2,1.2,3,Restricted,Red/Yellow,Yamba,1,714497
+Wategos Beach,Beach,-28.6475,153.639,North Coast,Good,4,5,Bay,No,No,0.5,0.6,2,,,Byron Bay,4,182922
+Ettalong Foreshore,Beach,-33.51,151.323,Central Coast,Moderate,3,3,Bay,No,No,0.2,0.6,2,,,Umina,1,17906
+Centennial Parklands Duck Pond,Freshwater,-33.896,151.235,Sydney,Difficult,2,2,Lake,No,No,0.0,1.5,1,,,Sydney,5,11218
+Kurnell Silver Beach,Beach,-34.014,151.213,Sydney,Moderate,3,4,Bay,No,No,0.2,0.6,2,,,Kurnell,1,87213
+Moruya South Head Beach,Beach,-35.927,150.157,South Coast,Moderate,3,4,Surf,No,No,1.0,1.2,3,,,Moruya,5,120402
+Greenhills Beach,Beach,-34.0615,151.176,Sydney,Moderate,3,4,Surf,No,No,1.4,1.2,3,Restricted,,Cronulla,5,71031
+Albury Noreuil Park Beach,Freshwater,-36.078,146.915,Border,Good,4,3,River,No,No,0.0,0.5,2,,,Albury,1,135523
+Tuross Head Main Beach,Beach,-36.048,150.141,South Coast,Moderate,3,4,Surf,Yes,No,0.9,1.2,3,,Red/Yellow,Tuross Head,1,113372
+Clarkes Beach,Beach,-28.651,153.627,North Coast,Good,4,5,Bay,Yes,No,0.6,0.6,2,,Red/Yellow,Byron Bay,3,357690
+Thirroul Beach,Beach,-34.315,150.93,Illawarra,Good,4,4,Surf,Yes,No,1.0,,3,,Red/Yellow,Thirroul,1,595799
+Patonga Beach,Beach,-33.545,151.27,Central Coast,Moderate,3,4,Bay,No,No,0.2,0.6,2,,,Patonga,0,40593
+Corindi Beach,Beach,-29.991,153.205,North Coast,Moderate,3,4,Surf,No,No,1.0,1.2,3,,,Corindi,1,92520
+Barham Murray River Beach,Freshwater,-35.633,144.129,Riverina,Moderate,3,3,River,No,No,0.0,0.5,,Yes,,Barham,1,51418
+Redhead Beach,Beach,-33.015,151.709,Newcastle,Good,4,4,Surf,Yes,No,1.2,1.2,3,Restricted,Red/Yellow,Newcastle,20,502016
+Eden Aslings Beach,Beach,-37.07,149.904,South Coast,Moderate,3,4,Surf,Yes,No,1.0,1.2,3,,Red/Yellow,Eden,1,93855
+Narrabeen Lagoon Swim,Freshwater,-33.72,151.285,Sydney,Moderate,3,3,Lake,No,No,0.0,1.5,1,,,Sydney,25,58988
+Killcare Beach,Beach,-33.527,151.354,Central Coast,Moderate,3,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Killcare,1,106220
+Cabarita Beach,Beach,-28.338,153.577,North Coast,Good,4,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Pottsville,7,1192006
+Ramsgate Beach,Beach,-33.991,151.147,Sydney,Good.,4,3,Bay,No,No,0.2,0.6,2,Restricted,,Sydney,13,327787
+Bundeena Main Beach,Beach,-34.084,151.151,Royal NP,Moderate,3,4,Bay,Yes,No,0.3,0.6,2,,Red/Yellow,Bundeena,0,225763
+Lake Jindabyne Swim Area,Freshwater,-36.415,148.62,Snowy Mountains,Moderate,3,4,Lake,No,No,0.0,1.5,1,,,Jindabyne,1,134599
+Little Beach Tomaree,Beach,-32.731,152.188,Port Stephens,Moderate,3,4,Bay,No,No,0.3,0.6,2,,,Shoal Bay,4,157963
+Lake Tabourie Swim,Freshwater,-35.431,150.433,South Coast,Moderate,3,4,Lake,No,No,0.0,1.5,1,,,Ulladulla,10,90060
+Terania Creek Waterhole,Freshwater,-28.614,153.307,North Coast,Difficult,2,5,River,No,No,0.0,0.5,2,Yes,,The Channon,7,28382
+Emerald Beach,Beach,-30.198,153.18,North Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Coffs Harbour,20,121485
+Bondi Beach ,Beach,-33.8915,151.2767,Sydney,Excellent,5,5,Surf,Yes,Yes,1.8,1.2,3,,Red/Yellow,Sydney,7,3814202
+South Golden Beach,Beach,-28.491,153.541,North Coast,Moderate,3,4,Surf,No,No,0.9,1.2,3,,,Ocean Shores,5,62544
+Blue Pool Bermagui,Rockpool,-36.4252,150.0788,South Coast,Good,4,4,Ocean Pool,No,No,0.0,0.1,1,Yes,,Bermagui,2,704135
+New Brighton Beach,Beach,-28.514,153.546,North Coast,Moderate,3,4,Surf,No,No,0.9,1.2,3,,,Brunswick Heads,4,50771
+South West Rocks Main Beach,Beach,-30.889,153.041,Mid North Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,South West Rocks,1,364994
+Park Beach Coffs Harbour,Beach,-30.297,153.144,North Coast,Good,4,4,Surf,Yes,No,1.1,1.2,3,Restricted,Red/Yellow,Coffs Harbour,2,1042682
+Red Rock River Mouth,Beach,-29.998,153.217,North Coast,Moderate,3,4,Estuary,No,No,0.2,0.5,2,Restricted,,Red Rock,1,121850
+North Wollongong Beach,Beach,-34.417,150.903,Illawarra,Excellent,5,4,Bay,Yes,No,0.9,0.6,2,Restricted,Red/Yellow,Wollongong,2,5840305
+Hat Head Beach,Beach,-31.049,153.039,Mid North Coast,Moderate,3,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Hat Head,1,18944
+Dee Why Rockpool,Rockpool,-33.748,151.3035,Sydney,Good,4,4,Ocean Pool,Yes,No,0.0,0.1,1,Yes,Red/Yellow,Sydney,22,124129
+Merimbula Main Beach,Beach,-36.897,149.904,South Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,,Red/Yellow,Merimbula,1,438648
+Tomakin River Mouth,Beach,-35.85,150.173,South Coast,Moderate,3,4,Estuary,No,No,0.2,0.5,2,,,Tomakin,1,178226
+Seven Mile Beach,Beach,-34.7789,150.756,South Coast,Moderate,3,5,Surf,No,No,1.1,1.2,3,,,Gerringong,7,94249
+Nobbys Beach Newcastle,Beach,-32.919,151.789,Newcastle,Good,4,4,Surf,Yes,No,1.0,1.2,3,,Red/Yellow,Newcastle,1,964449
+Evans Head Main Beach,Beach,-29.113,153.432,North Coast,Moderate,3,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Evans Head,1,217243
+Tuncurry Beach,Beach,-32.1685,152.51,Mid North Coast,Good,4,4,Surf,Yes,No,1.2,1.2,3,,Red/Yellow,Tuncurry,2,411668
+Boat Harbour NSW,Beach,-32.792,152.095,Port Stephens,Moderate,3,4,Surf,No,No,1.0,1.2,3,,,Anna Bay,5,146209
+Avoca Beach,Beach,-33.459,151.441,Central Coast,Good,4,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Avoca,1,202044
+Royal National Park Wattamolla Lagoon,Freshwater,-34.138,151.114,Royal NP,Moderate,3,4,Lagon,No,No,0.0,0.4,1,Yes,,Loftus,15,64681
+Palm Beach,Beach,-33.5962,151.3245,Sydney,Good,4,5,Surf,Yes,No,1.4,1.2,3,,Red/Yellow,Sydney,45,281807
+Umina Beach,Beach,-33.522,151.313,Central Coast,Good,4,4,Surf,Yes,No,0.8,1.2,3,,Red/Yellow,Umina,0,967707
+Shoal Bay Beach,Beach,-32.716,152.17,Port Stephens,Good,4,4,Bay,Yes,No,0.3,0.6,2,,Red/Yellow,Shoal Bay,0,397242
+Wooli Main Beach,Beach,-29.888,153.267,North Coast,Moderate,3,4,Surf,No,No,1.0,1.2,3,,,Wooli,1,184354
+Manly Beach,Beach,-33.795,151.287,Sydney,Excellent,5,4,Surf,Yes,Yes,1.4,1.2,3,,Red/Yellow,Sydney,14,3404485
+Wagga Beach,Freshwater,-35.115,147.368,Riverina,Good.,4,3,River,No,No,0.0,0.5,2,,,Wagga Wagga,0,371461
+Broken Bay River Beach,Beach,-33.55,151.275,Central Coast,Difficult,2,4,Estuary,No,No,0.2,0.5,2,Restricted,,Patonga,2,26070
+Figure Eight Pools,Rockpool,-34.1713,151.0601,Royal NP,Diffcult,2,5,Rockpool,No,No,0.0,0.1,2,,,Otford,10,37052
+Bar Beach Newcastle,Beach,-32.941,151.763,Newcastle,Good,4,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Newcastle,2,1195757
+Lake Illawarra Reddall Reserve,Freshwater,-34.532,150.855,Illawarra,Moderate,3,3,Lake,No,No,0.0,1.5,1,,,Shellharbour,6,66214
+Cronulla Main Beach,Beach,-34.052,151.155,Sydney,Good,4,4,Surf,Yes,No,1.1,1.2,3,Restricted,Red/Yellow,Cronulla,1,565575
+Maroubra Beach,Beach,-33.9507,151.259,Sydney,Good,4,4,Surf,Yes,No,1.5,1.2,3,Restricted,Red/Yellow,Sydney,10,961909
+Clyde River Swim Spot,Freshwater,-35.704,150.175,South Coast,Moderate,3,4,River,No,No,0.0,0.5,2,,,Batemans Bay,2,85183
+Short Point Beach,Beach,-36.879,149.916,South Coast,Moderate,3,4,Surf,No,No,1.0,1.2,3,Restricted,,Merimbula,4,139903

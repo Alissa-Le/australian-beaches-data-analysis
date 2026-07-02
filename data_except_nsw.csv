@@ -1,0 +1,189 @@
+Name,Type,Latitude,Longitude,State,Region,Accessibility,Facilities_Rating,Water_Quality_Rating,Beach_Type,Patrolled,Shark_Net,Average_Wave_Height_m,Beach_Length_km,General_Hazard_Rating,Dogs_Allowed,Flags,Nearest_Town,Distance_to_Town_km,Annual_Visitors
+Wonthaggi Basin Rockpool,Rockpool,-38.634,145.612,VIC,Bass Coast,Moderate,3,4,Rockpool,No,No,0.0,0.1,2,Yes,,Wonthaggi,10,94770
+Surf Beach VIC,Beach,-38.492,145.283,VIC,Phillip Island,Moderate,3,4,Surf,No,No,0.9,1.2,3,,,Cowes,5,142301
+Currumbin Beach,Beach,-28.1375,153.494,QLD,Gold Coast,Good,4,4,Surf,Yes,No,1.1,1.2,3,Restricted,Red/Yellow,Currumbin,1,854524
+Mooloolaba Beach,Beach,-26.683,153.12,QLD,Sunshine Coast,Excellent,5,4,Bay,Yes,No,0.9,0.6,2,Restricted,Red/Yellow,Mooloolaba,1,3705129
+Clare Valley Quarry Swim,Freshwater,-33.84,138.614,SA,Mid North,Difficult,2,3,Lake,No,No,0.0,1.5,1,,,Clare,10,5811
+Manly Harbour Swim Spot QLD,Beach,-27.448,153.192,NZ,Moreton Bay,Moderate,3,3,Bay,No,No,0.2,0.6,2,,,Brisbane,19,47425
+Middleton Surf Beach,Beach,-35.522,138.698,SA,Fleurieu Peninsula,Moderate,3,4,Surf,Yes,No,1.3,1.2,3,Restricted,Red/Yellow,Middleton,2,201684
+City Beach Perth,Beach,-31.9485,115.758,WA,Perth,goood,4,4,Surf,Yes,No,1.2,1.2,3,,Red/Yellow,Perth,10,509640
+Henley South Beach,Beach,-34.9315,138.488,SA,Adelaide,Good,4,4,Bay,Yes,No,0.2,,2,Restricted,Red/Yellow,Adelaide,11,507713
+Safelink Cove Swim,Beach,-31.7,115.72,WA,Perth,Moderate,3,3,Bay,No,No,0.3,0.6,2,,,Perth,30,10032
+Lake Bonney Barmera,Freshwater,-34.255,140.459,SA,Riverland,Moderate,3,3,Lake,No,No,0.0,1.5,1,,,Barmera,0,62033
+Horseshoe Bay Port Elliot,Beach,-35.533,138.684,SA,Fleurieu Peninsula,Good,4,5,Bay,Yes,No,0.2,0.6,2,Restricted,Red/Yellow,Port Elliot,1,285150
+Gordon Dam Lake Gordon,Freshwater,-42.118,146.075,TAS,South West,Difficult,2,4,Lake,No,No,0.0,1.5,1,,,Maydena,60,3041
+Port Vincent Swimming Enclosure,Beach,-34.772,137.853,SA,Yorke Peninsula,Good,4,4,Bay,Yes,Yes,0.2,0.6,2,,Red/Yellow,Port Vincent,1,1042038
+King George Sound Swim Spot,Beach,-35.031,117.953,WA,South Coast,Moderate,3,5,Bay,No,No,0.3,0.6,2,Restricted,,Albany,3,194144
+Clifton Beach,Beach,-42.9403,147.5381,TAS,Hobart,Moderate,3,5,Surf,No,No,1.2,1.2,3,,,Hobart,25,121194
+Alva Beach,Beach,-19.525,147.43,QLD,North Queensland,Moderate,3,4,Surf,No,No,0.8,1.2,3,Restricted,,Ayr,20,95425
+Manuka Pool,Freshwater,-35.322,149.13,ACT,Canberra,Excellent,5,3,Pool,Yes,No,0.0,0.05,1,,,Canberra,5,1479731
+Venus Bay Main Beach,Beach,-33.216,134.672,SA,West Coast,Difficult,2,4,Surf,No,No,5,1.2,3,,,Venus Bay,1,33067
+Burns Beach,Beach,-31.729,115.712,WA,Perth,Moderate,3,3,Surf,No,No,1.0,1.2,3,,,Perth,32,26401
+Horseshoe Bay Magnetic Island,Beach,-19.114,146.871,QLD,North Queensland,Moderate,3,4,Bay,Yes,Yes,0.3,0.6,2,,Red/Yellow,Townsville,18,30102
+Paynesville Swim Beach,Freshwater,-37.918,147.722,VIC,Gippsland,Moderate,3,4,Lake,No,No,0.0,1.5,,,,Paynesville,1,37994
+Airlie Main Beach,Beach,-20.27,148.7175,QLD,Whitsundays,Moderate,3,3,Bay,No,No,0.2,0.6,2,,,Airlie Beach,0,139674
+1770 Foreshore,Beach,-24.1715,151.892,QLD,Gladstone Region,Moderate,3,4,Bay,No,No,0.2,0.6,2,Restricted,,Seventeen Seventy,1,64782
+Inverloch Main Beach,Beach,-38.639,145.725,VIC,Gippsland,Good,4,4,Surf,Yes,No,0.8,1.2,3,,Red/Yellow,Inverloch,1,1132476
+Urangan Pier Beach,Beach,-25.292,152.909,QLD,Fraser Coast,Moderate,3,4,Bay,No,No,0.2,0.6,2,,,Hervey Bay,5,15855
+Waikerie Riverfront Beach,Freshwater,-34.181,139.986,SA,Riverland,Moderate,3,3,River,No,No,0.0,0.5,2,Yes,,Waikerie,0,70629
+Hillarys Boat Harbour Beach,Beach,-31.829,115.742,WA,Perth,Good,4,3,Bay,Yes,No,0.2,0.6,2,,Red/Yellow,Perth,23,210666
+Cairns Esplanade Lagoon,Freshwater,-16.92,145.772,QLD,Far North,Excellent,5,3,Lagon,Yes,No,0.0,0.4,1,Yes,,Cairns,0,4312416
+Kingston Foreshore Lake Tuggeranong,Freshwater,-35.424,149.068,ACT,Canberra,Moderate,3,3,Lake,No,No,0.0,1.5,1,Yes,,Canberra,18,10292
+Norman Beach,Beach,-39.0285,146.318,VIC,Wilson Prom,Moderate,3,5,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,Tidal River,0,57341
+Cottesloe Beach,Beach,-31.9936,115.752,WA,Perth,Good,4,4,Surf,Yes,No,0.9,1.2,3,,Red/Yellow,Perth,14,411864
+Dromana Beach,Beach,-38.333,144.965,VIC,Mornington,Good,4,4,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,Dromana,0,406743
+Joondalup Lake Yellagonga,Freshwater,-31.739,115.773,WA,Perth,Moderate,3,3,Lake,No,No,0.0,1.5,1,,,Joondalup,3,84744
+Howard Springs Swimming Pool,Freshwater,-12.486,131.048,NT,Darwin Region,Moderate,3,4,Spring,No,No,0.0,0.2,1,,,Darwin,30,6227
+St Kilda Beach,Beach,-37.8676,144.976,VIC,Melbourne,Good,4,4,Bay,Yes,No,0.4,0.6,2,,Red/Yellow,Melbourne,6,1091499
+Logans Beach Whale Viewing,Beach,-38.402,142.54,VIC,Great Ocean Road,Moderate,3,4,Surf,No,No,1.4,1.2,3,,,Warrnambool,6,60515
+Sandy Bay Hobart,Beach,-42.898,147.338,TAS,Hobart,Good,4,4,Bay,No,No,0.2,0.6,2,,,Hobart,5,187504
+Enoggera Reservoir Swim Area,Freshwater,-27.427,152.933,QLD,Brisbane,good,4,4,Lake,No,No,0.0,1.5,1,,,Brisbane,12,354153
+Adventure Bay,Beach,-43.336,147.337,TAS,Bruny Island,Moderate,3,5,Bay,No,No,0.3,0.6,2,,,Adventure Bay,1,162906
+Alexandra Headland Beach,Beach,-26.671,153.116,QLD,Sunshine Coast,Good,4,4,Surf,Yes,No,1.2,1.2,3,,Red/Yellow,Maroochydore,2,618726
+Moonta Bay Jetty,Beach,-34.064,137.568,SA,Yorke Peninsula,Moderate,3,4,Bay,Yes,No,0.2,0.6,2,,Red/Yellow,Moonta Bay,1,140439
+Lucinda Beach,Beach,-18.523,146.341,QLD,North Queensland,Moderate,3,4,Bay,No,No,0.2,0.6,2,,,Ingham,25,69718
+North Mission Beach,Beach,-17.873,146.103,QLD,North Queensland,Moderate,3,4,Bay,No,No,0.4,0.6,2,,,Mission Beach,4,62653
+Greens Pool,Beach,-34.95,117.311,WA,South Coast,Moderate,3,5,Bay,No,No,0.2,0.6,2,,,Denmark,15,24279
+Whitehaven Beach,Beach,-20.286,149.037,QLD,Whitsundays,Moderate,3,5,Bay,No,No,0.3,0.6,2,Restricted,,Shute Harbour,30,91689
+Blue Rock Lake Swim Spot,Freshwater,-38.161,146.238,VIC,Gippsland,Moderate,3,,Lake,No,No,0.0,1.5,1,,,Moe,20,50421
+Lake Moogerah Swim Spot,Freshwater,-28.025,152.559,QLD,Scenic Rim,Moderate,3,4,Lake,No,No,0.0,1.5,1,,,Boonah,25,32899
+Moana Beach,Beach,-35.1775,138.47,SA,Adelaide,Good,4,4,Surf,Yes,No,0.7,1.2,3,Restricted,Red/Yellow,Adelaide,36,251407
+Middleton Beach Albany,Beach,-35.02,117.936,WA,South Coast,Good,4,5,Bay,Yes,No,0.5,0.6,2,Restricted,Red/Yellow,Albany,4,977291
+Lake St Clair Swim Area,Freshwater,-42.114,146.167,TAS,Central Highlands,Moderate,3,4,Lake,No,No,0.0,1.5,1,Yes,,Derwent Bridge,5,96812
+Portsea Front Beach,Beach,-38.32,144.713,VIC,Mornington,Moderate,3,4,Bay,No,No,0.2,0.6,2,Restricted,,Portsea,0,94934
+Berry Springs Nature Park,Freshwater,-12.815,130.983,NT,Darwin Region,Moderate,3,,Spring,No,No,0.0,0.2,1,Yes,,Darwin,47,17652
+Renmark Riverfront Swim,Freshwater,-34.17,140.744,SA,Riverland,Moderate,3,3,River,No,No,0.0,0.5,2,,,Renmark,0,68592
+Henley Beach,Beach,-34.9195,138.4946,SA,Adelaide,Good,4,4,Bay,Yes,No,0.2,0.6,,Restricted,Red/Yellow,Adelaide,11,676767
+Torquay Front Beach,Beach,-38.333,144.32,VIC,Surf Coast,Good,4,4,Bay,Yes,No,0.3,0.6,2,,Red/Yellow,Torquay,1,661111
+Lake Eildon Bonnie Doon,Freshwater,-37.015,145.875,VIC,High Country,Moderate,3,4,Lake,No,No,0.0,1.5,1,,,Bonnie Doon,0,102408
+Noosa Main Beach,Beach,-26.3874,153.0899,QLD,Sunshine Coast,Excellent,5,5,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,Noosa,1,5170972
+South Mission Beach,Beach,-17.95,146.099,QLD,North Queensland,Moderate,3,4,Bay,No,No,0.4,0.6,2,Restricted,,Mission Beach,8,143982
+Brighton Beach,Beach,-37.915,144.992,VIC,Melbourne,Good,4,4,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,Melbourne,11,458769
+Mallacoota Main Beach,Beach,-37.573,149.757,VIC,Gippsland,Moderate,3,4,Surf,No,No,1.0,,3,,,Mallacoota,0,172757
+Southport Main Beach,Beach,-27.9635,153.425,QLD,Gold Coast,Good,4,4,Surf,Yes,No,1.4,1.2,3,,Red/Yellow,Southport,3,920280
+Lake Eildon Jerusalem Creek,Freshwater,-37.167,145.849,NZ,High Country,Difficult,2,4,Lake,No,No,0.0,1.5,1,,,Eildon,15,16419
+Scarborough Beach,Beach,-31.895,115.752,WA,Perth,Excellent,5,4,Surf,Yes,No,1.6,1.2,3,Restricted,Red/Yellow,Perth,14,3771201
+Kingston Beach TAS,Beach,-42.982,147.305,TAS,Hobart,Good,4,4,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,Kingston,1,1027444
+Lake Monger Swim Point,Freshwater,-31.927,115.832,WA,Perth,Moderate,3,3,Lake,No,No,0.0,1.5,1,,,Perth,5,108510
+Barwon Heads River Beach,Beach,-38.273,144.504,VIC,Bellarine,Good,4,4,Estuary,Yes,No,0.2,0.5,2,,Red/Yellow,Barwon Heads,1,639202
+Bells Beach,Beach,-38.371,144.283,VIC,Surf Coast,Moderate,3,5,Surf,No,No,1.8,1.2,3,,,Torquay,9,118061
+Emily Bay,Beach,-29.0543,167.966,NF,Island,Excellent,5,5,Lagon,No,No,0.1,0.4,1,,,Burnt Pine,3,752377
+Port MacDonnell Beach,Beach,-38.057,140.701,SA,Limestone Coast,Moderate,3,4,Bay,No,No,0.4,0.6,2,,,Port MacDonnell,1,155204
+Cowes Front Beach,Beach,-38.453,145.237,VIC,Phillip Island,Good,4,4,Bay,Yes,No,0.2,0.6,2,,Red/Yellow,Cowes,0,276020
+Streaky Bay Jetty Beach,Beach,-32.796,134.215,SA,West Coast,Moderate,3,4,Bay,No,No,0.3,0.6,2,,,Streaky Bay,1,93527
+Ninety Mile Beach Golden Beach,Beach,-38.216,147.384,VIC,Gippsland,Moderate,3,4,Surf,No,No,1.0,,3,,,Golden Beach,0,13709
+Elliston Waterloo Bay,Beach,-33.642,134.888,SA,West Coast,Moderate,3,4,Bay,No,No,0.4,0.6,2,,,Elliston,1,136997
+Victor Harbor Beach,Beach,-35.553,138.622,SA,Fleurieu Peninsula,Moderate,3,4,Bay,Yes,No,0.2,0.6,2,Restricted,Red/Yellow,Victor Harbor,1,111108
+Bellerive Bluff Rockpool,Rockpool,-42.869,147.375,TAS,Hobart,Moderate,3,4,Rockpool,No,No,0.0,0.1,2,,,Hobart,7,92976
+South Beach Fremantle,Beach,-32.074,115.757,WA,Perth,Good,4,4,Bay,Yes,No,0.7,0.6,2,,Red/Yellow,Fremantle,3,465149
+Semaphore Beach,Beach,-34.833,138.472,SA,Adelaide,Good,4,4,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,Adelaide,14,588068
+Port Fairy East Beach,Beach,-38.384,142.249,VIC,Great Ocean Road,Good,4,4,Surf,Yes,No,0.9,1.2,,,Red/Yellow,Port Fairy,1,872681
+Lakes Entrance Main Beach,Beach,-37.882,147.995,VIC,Gippsland,Good,4,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Lakes Entrance,1,291173
+Barwon River Swim Geelong,Freshwater,-38.161,144.338,VIC,Geelong,Moderate,3,3,River,No,No,0.0,0.5,2,,,Geelong,2,127750
+Mindil Beach,Beach,-12.4321,130.8345,NT,Darwin,Moderate,3,3,Swell,No,No,0.6,0.8,3,Restricted,,Darwin,4,34341
+Town Beach Broome,Beach,-17.969,122.239,WA,Broome,Good.,4,5,Bay,No,No,0.3,0.6,2,,,Broome,2,516646
+Metung Boardwalk Swim,Freshwater,-37.878,147.852,VIC,Gippsland,Moderate,3,4,Lake,No,No,0.0,1.5,1,,,Metung,1,57057
+Lake Burley Griffin East,Freshwater,-35.3005,149.137,ACT,Canberra,Good,4,3,Lake,No,No,0.0,1.5,1,Yes,,Canberra,4,508335
+Lake Burley Griffin Black Mountain,Freshwater,-35.2855,149.11,ACT,Canberra,Moderate,3,3,Lake,No,No,0.0,1.5,1,Yes,,Canberra,4,42963
+Port Noarlunga Beach,Beach,-35.146,138.473,SA,Adelaide,goood,4,,Reeef,Yes,No,0.5,0.5,4,Restricted,Red/Yellow,Adelaide,30,250132
+Lake MacDonald Swim Area,Freshwater,-26.393,152.937,QLD,Sunshine Coast,Moderate,3,4,Lake,No,No,0.0,1.5,1,Yes,,Cooroy,9,30047
+Cable Beach,Beach,-17.947,122.2359,WA,Broome,Good,4,5,Swell,Yes,No,0.8,0.8,3,Restricted,Red/Yellow,Broome,7,870131
+Wellington Point Jetty,Beach,-27.483,153.268,QLD,Moreton Bay,Moderate,3,3,Bay,No,No,0.2,0.6,2,,,Brisbane,22,112724
+Blue Lake,Freshwater,-37.8357,140.7798,SA,Mount Gambier,Good,4,4,Lake,No,No,0.0,1.5,,,,Mount Gambier,3,348247
+Geraldton Town Beach,Beach,-28.78,114.614,WA,Mid West,Moderate,3,4,Bay,Yes,No,0.5,0.6,2,,Red/Yellow,Geraldton,1,28482
+Christies Beach,Beach,-35.137,138.48,SA,Adelaide,Good,4,4,Surf,Yes,No,0.6,1.2,3,Restricted,Red/Yellow,Adelaide,31,187965
+Airlie Beach Lagoon,Freshwater,-20.267,148.717,QLD,Whitsundays,Excellent,5,4,Lagon,Yes,No,0.0,0.4,1,,,Airlie Beach,0,1628206
+Seven Mile Beach TAS,Beach,-42.849,147.503,TAS,Hobart,Moderate,3,4,Surf,No,No,0.9,1.2,3,,,Hobart,20,109124
+Lorne Main Beach,Beach,-38.542,143.973,VIC,Surf Coast,Good,4,4,Bay,Yes,No,0.5,0.6,2,,Red/Yellow,Lorne,1,262378
+Glenelg Beach,Beach,-34.9803,138.5106,SA,Adelaide,Good,4,4,Bay,Yes,No,0.2,0.6,2,Restricted,Red/Yellow,Adelaide,12,649493
+Golden Beach,Beach,-26.821,153.125,QLD,Sunshine Coast,Good,4,4,Bay,Yes,No,0.2,0.6,2,,Red/Yellow,Caloundra,3,938291
+Elephant Rocks,Beach,-34.955,117.309,WA,South Coast,Difficult,2,5,Bay,No,No,0.2,0.6,2,Restricted,,Denmark,16,24246
+John Forrest National Park Pool,Freshwater,-31.891,116.083,WA,Perth Region,Difficult,2,4,River,No,No,0.0,0.5,2,,,Midland,12,12996
+Sandy Point Beach,Beach,-38.816,146.081,VIC,Gippsland,Moderate,3,4,Surf,No,No,1.1,1.2,3,Restricted,,Sandy Point,0,34239
+Lake Alexandrina Swim,Freshwater,-35.375,139.02,SA,Murray,Moderate,3,3,Lake,No,No,0.0,1.5,1,Yes,,Milang,15,94113
+Wilson Prom Tidal River Beach,Beach,-39.028,146.322,NZ,Wilson Prom,Moderate,3,5,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,Tidal River,0,115373
+Clarence Aquatic Lagoon,Freshwater,-42.875,147.371,TAS,Hobart,Good,4,3,Lagon,Yes,No,0.0,0.4,1,,,Hobart,9,743314
+North Cottesloe Beach,Beach,-31.9905,115.7525,WA,Perth,Good,4,4,Surf,Yes,No,1.1,,3,,Red/Yellow,Perth,14,815210
+Lake Burley Griffin West,Freshwater,-35.2935,149.104,ACT,Canberra,G,4,3,Lake,No,No,0.0,1.5,1,Yes,,Canberra,3,545176
+Kingston SE Jetty Beach,Beach,-36.83,139.852,SA,Limestone Coast,Moderate,3,4,Bay,No,No,0.4,0.6,2,,,Kingston SE,1,129655
+Moffat Beach,Beach,-26.789,153.147,QLD,Sunshine Coast,Good,4,4,Surf,Yes,No,1.1,1.2,3,,Red/Yellow,Caloundra,2,506657
+The Strand Townsville,Beach,-19.252,146.813,QLD,North Queensland,Good,4,3,Bay,Yes,Yes,0.2,0.6,2,,Red/Yellow,Townsville,2,1017683
+South Perth Foreshore Swim,Freshwater,-31.975,115.865,WA,Perth,good,4,3,River,No,No,0.0,0.5,2,,,Perth,3,427744
+Point Cartwright Beach,Beach,-26.6825,153.136,QLD,Sunshine Coast,Good,4,4,Surf,No,No,1.4,1.2,3,,,Mooloolaba,5,591913
+Echuca Moama River Beach,Freshwater,-36.129,144.751,VIC,Murray,Good,4,3,River,No,No,0.0,0.5,,,,Echuca,1,675615
+Wallaroo North Beach,Beach,-33.927,137.628,SA,Yorke Peninsula,Moderate,3,4,Bay,No,No,0.3,0.6,2,Restricted,,Wallaroo,3,25047
+Leighton Beach,Beach,-32.0275,115.751,WA,Perth,Moderate,3,4,Surf,Yes,No,1.0,1.2,3,,Red/Yellow,Fremantle,4,105085
+Lake Weyba Access,Freshwater,-26.431,153.062,QLD,Sunshine Coast,Moderate,3,4,Lake,No,No,0.0,1.5,1,,,Noosaville,10,83616
+Rye Front Beach,Beach,-38.374,144.829,VIC,Mornington,Moderate,3,4,Bay,Yes,No,0.2,0.6,2,Restricted,Red/Yellow,Rye,0,29149
+Bellerive Beach,Beach,-42.871,147.371,TAS,Hobart,Good,4,4,Bay,Yes,No,0.2,0.6,2,,Red/Yellow,Hobart,7,450479
+Wineglass Bay,Beach,-42.158,148.3019,TAS,Freycinet,Moderate,3,5,Bay,No,No,0.2,0.6,2,,,Coles Bay,5,107513
+Shorncliffe Beach,Beach,-27.327,153.09,QLD,Moreton Bay,Moderate,3,3,Bay,No,No,0.2,0.6,2,Restricted,,Brisbane,17,81375
+Noosaville River Foreshore,Freshwater,-26.395,153.049,QLD,Sunshine Coast,Good,4,4,River,No,No,0.0,0.5,2,Yes,,Noosaville,0,410021
+West Beach Adelaide,Beach,-34.9465,138.504,SA,Adelaide,Good,4,4,Bay,Yes,No,0.3,0.6,2,,Red/Yellow,Adelaide,9,1134934
+Maroon Dam Swim Area,Freshwater,-28.155,152.729,QLD,Scenic Rim,Difficult,2,4,Lake,No,No,0.0,1.5,1,,,Boonah,40,11417
+Lake Tyers Beach,Beach,-37.877,148.092,VIC,Gippsland,Moderate,3,4,Surf,No,No,1.0,1.2,3,Restricted,,Lake Tyers,3,43587
+Somerset Dam Swimming,Freshwater,-27.095,152.602,QLD,Brisbane Region,Moderate,3,4,Lake,No,No,0.0,1.5,1,Yes,,Esk,25,47524
+Derwent River Swim Sandy Bay,Freshwater,-42.902,147.326,TAS,Hobart,Moderate,3,3,River,No,No,0.0,0.5,2,,,Hobart,4,50201
+Hervey Bay Scarness Beach,Beach,-25.287,152.858,QLD,Fraser Coast,Good,4,4,Bay,Yes,No,0.2,0.6,2,Restricted,Red/Yellow,Hervey Bay,1,767094
+Woodgate Beach,Beach,-25.099,152.578,QLD,Bundaberg,Moderate,3,4,Bay,No,No,0.2,0.6,2,,,Bundaberg,45,33448
+Kangaroo Point Riverfront,Freshwater,-27.47,153.036,QLD,Brisbane,Moderate,3,3,River,No,No,0.0,0.5,2,Yes,,Brisbane,1,80180
+Lesmurdie Falls Pool,Freshwater,-31.999,116.049,WA,Perth Region,Difficult,2,4,River,No,No,0.0,0.5,2,Yes,,Perth,22,13580
+Back Beach Bunbury,Beach,-33.354,115.627,WA,South West,Moderate,3,,Surf,Yes,No,1.3,1.2,3,Restricted,Red/Yellow,Bunbury,2,118528
+Emu Point Beach,Beach,-35.002,117.944,WA,South Coast,Good,4,5,Bay,Yes,No,0.3,0.6,2,Restricted,Red/Yellow,Albany,6,316523
+Four Mile Beach Port Douglas,Beach,-16.494,145.462,QLD,Far North,Good,4,4,Bay,Yes,Yes,0.4,0.6,2,Restricted,Red/Yellow,Port Douglas,1,327900
+Trigg Beach,Beach,-31.869,115.757,WA,Perth,Good,4,4,Surf,Yes,No,1.5,1.2,3,Restricted,Red/Yellow,Perth,15,780889
+Lake Augusta Swim Spot,Freshwater,-41.944,146.463,TAS,Central Highlands,Difficult,2,4,Lake,No,No,0.0,1.5,1,Yes,,Miena,25,3968
+Holloways Beach,Beach,-16.837,145.738,QLD,Far North,Moderate,3,3,Bay,Yes,Yes,0.3,0.6,2,,Red/Yellow,Cairns,15,135434
+Kingston Foreshore Swim Spot,Freshwater,-35.3115,149.1485,ACT,Canberra,Moderate,3,3,Lake,No,No,0.0,1.5,1,Yes,,Canberra,5,53506
+Alpine Creek Swim Hole,Freshwater,-36.85,147.25,VIC,High Country,Diffcult,2,5,River,No,No,0.0,0.5,2,,,Bright,20,10870
+Baroon Pocket Dam,Freshwater,-26.736,152.851,QLD,Sunshine Coast,Difficult,2,4,Lake,No,No,0.0,1.5,1,,,Maleny,15,12356
+Portsea Back Beach,Beach,-38.33,144.691,VIC,Mornington,Moderate,3,5,Surf,No,No,1.3,1.2,3,,,Portsea,3,181495
+Sorrento Front Beach,Beach,-38.346,144.741,VIC,Mornington,Good,4,4,Bay,Yes,No,0.2,0.6,2,,Red/Yellow,Sorrento,0,215066
+Brisbane River Sherwood,Freshwater,-27.535,152.974,QLD,Brisbane,Moderate,3,3,River,No,No,0.0,0.5,2,,,Brisbane,8,72339
+Apollo Bay Beach,Beach,-38.758,143.668,VIC,Great Ocean Road,Good,4,4,Bay,Yes,No,0.4,0.6,2,Restricted,Red/Yellow,Apollo Bay,1,377574
+Wivenhoe Dam Swimming,Freshwater,-27.394,152.591,QLD,Brisbane Region,Moderate,3,4,Lake,No,No,0.0,1.5,1,Yes,,Lowood,20,71888
+Warrnambool Main Beach,Beach,-38.386,142.495,VIC,Great Ocean Road,Good,4,4,Surf,Yes,No,1.0,1.2,3,,Red/Yellow,Warrnambool,2,608585
+Yorke Peninsula Berry Bay,Beach,-34.886,137.273,SA,Yorke Peninsula,Moderate,3,4,Surf,No,No,1.2,1.2,3,,,Warooka,10,99508
+Ocean Grove Main Beach,Beach,-38.262,144.536,VIC,Bellarine,Good,4,4,Surf,Yes,No,1.0,1.2,3,,Red/Yellow,Ocean Grove,2,610218
+Mindarie Marina Swim Zone,Beach,-31.692,115.71,WA,Perth,Moderate,3,3,Bay,No,No,0.2,0.6,2,Restricted,,Perth,35,11858
+Caloundra Kings Beach,Beach,-26.804,153.138,QLD,Sunshine Coast,Excellent,5,4,Surf,Yes,Yes,1.0,1.2,3,,Red/Yellow,Caloundra,1,1610781
+Main Beach Stradbroke,Beach,-27.4325,153.53,QLD,Moreton Bay,Moderate,3,5,Surf,No,No,1.6,1.2,3,,,Point Lookout,2,39315
+Molonglo River Swim Spot,Freshwater,-35.306,149.21,ACT,Canberra,Moderate,3,3,River,No,No,0.0,0.5,2,,,Queanbeyan,5,51907
+Bitter Springs,Freshwater,-14.955,133.0801,NT,Mataranka,Good,4,5,Spring,No,No,0.0,0.2,1,Yes,,Mataranka,2,519186
+Florence Falls Plunge Pool,Freshwater,-13.1,130.83,NT,Litchfield,Moderate,3,5,Spring,No,No,0.0,0.2,1,,,Batchelor,70,12963
+Agnes Water Beach,Beach,-24.21,151.903,QLD,Gladstone Region,Moderate,3,4,Surf,Yes,No,0.9,1.2,3,Restricted,Red/Yellow,Agnes Water,1,216662
+Clifton Beach QLD,Beach,-16.754,145.671,QLD,Far North,Moderate,3,4,Bay,Yes,Yes,0.3,0.6,2,,Red/Yellow,Cairns,24,132793
+Yarrawonga Foreshore,Freshwater,-36.015,146.007,VIC,Murray,Good,4,3,River,No,No,0.0,0.5,2,,,Yarrawonga,1,294409
+Lake Ginninderra Swim Spot,Freshwater,-35.23,149.064,ACT,Canberra,Moderate,3,3,Lake,No,No,0.0,1.5,1,Yes,,Canberra,7,112327
+Rockingham Beach,Beach,-32.281,115.724,WA,Rockingham,Good,4,4,Bay,Yes,No,0.4,0.6,2,,Red/Yellow,Rockingham,1,1097034
+Southbank Lagoon Brisbane,Freshwater,-27.474,153.023,QLD,Brisbane,Excellent,5,3,Lagon,Yes,No,0.0,0.4,1,,,Brisbane,0,3244252
+San Remo Jetty Beach,Beach,-38.523,145.377,VIC,Bass Coast,Moderate,3,3,Bay,No,No,0.2,0.6,2,Restricted,,San Remo,0,104169
+Port Campbell Beach,Beach,-38.621,142.995,VIC,Great Ocean Road,Moderate,3,4,Bay,No,No,0.4,0.6,2,Restricted,,Port Campbell,1,31760
+Warnbro Beach,Beach,-32.3195,115.748,WA,Rockingham,Moderate,3,4,Bay,No,No,0.3,0.6,2,,,Rockingham,8,80387
+Gippsland Lakes Swim Area,Freshwater,-37.884,147.998,VIC,Gippsland,Moderate,3,4,Lake,No,No,0.0,1.5,1,Yes,,Lakes Entrance,1,107642
+Pine Lake Elanora,Freshwater,-28.1355,153.454,QLD,Gold Coast,Moderate,3,3,Lake,No,No,0.0,1.5,1,,,Gold Coast,0,102796
+Town Green Beach Launceston,Freshwater,-41.435,147.136,TAS,North,Moderate,3,3,River,No,No,0.0,0.5,2,,,Launceston,0,52565
+Boat Harbour Beach,Beach,-40.923,145.623,TAS,North West,Moderate,3,5,Bay,No,No,0.3,0.6,2,Restricted,,Burnie,15,117691
+Kirra Beach,Beach,-28.1662,153.535,QLD,Gold Coast,Good,4,4,Surf,Yes,No,1.3,,3,Restricted,Red/Yellow,Gold Coast,22,784122
+Robe Town Beach,Beach,-37.164,139.752,SA,Limestone Coast,Moderate,3,4,Bay,No,No,0.3,0.6,2,,,Robe,1,143051
+Murray Bridge Sturt Reserve,Freshwater,-35.123,139.27,SA,Murray,Moderate,3,3,River,No,No,0.0,0.5,2,,,Murray Bridge,0,110887
+Matilda Bay Reserve,Freshwater,-31.982,115.816,WA,Perth,Good,4,3,River,No,No,0.0,0.5,2,Yes,,Perth,4,466220
+Ellis Beach,Beach,-16.752,145.6695,QLD,Far North,Moderate,3,4,Bay,No,Yes,0.5,0.6,2,Restricted,,Cairns,28,111661
+Trinity Beach,Beach,-16.788,145.694,QLD,Far North,Good,4,4,Bay,Yes,Yes,0.4,0.6,2,,Red/Yellow,Cairns,20,82617
+Mount Martha Beach,Beach,-38.265,145.015,VIC,Mornington,goood,4,4,Bay,Yes,No,0.3,0.6,2,,Red/Yellow,Mount Martha,0,913243
+Cotter Bend Swim Area,Freshwater,-35.327,148.874,ACT,Canberra,Moderate,3,4,River,No,No,0.0,0.5,2,,,Canberra,22,32339
+Surfers Paradise Beach,Beach,-28.0027,153.429,QLD,Gold Coast,Excellent,5,4,Surf,Yes,Yes,1.6,1.2,3,Restricted,Red/Yellow,Gold Coast,2,4489915
+Maroochydore Beach,Beach,-26.649,153.105,QLD,Sunshine Coast,Good,4,4,Surf,Yes,No,1.3,1.2,3,Restricted,Red/Yellow,Maroochydore,1,652593
+Burleigh Heads Beach,Beach,-28.091,153.452,QLD,Gold Coast,Excellent,5,,Surf,Yes,No,1.4,1.2,3,Restricted,Red/Yellow,Gold Coast,11,1081427
+Marlo Estuary Beach,Beach,-37.801,148.534,VIC,Gippsland,Moderate,3,4,Estuary,No,No,0.3,0.5,2,Restricted,,Marlo,0,87671
+Palm Cove Beach,Beach,-16.744,145.671,QLD,Far North,Good,4,4,Bay,Yes,Yes,0.3,0.6,2,,Red/Yellow,Cairns,26,691138
+Serpentine Falls,Freshwater,-32.37,116.057,WA,Perth Region,Difficult,2,5,River,No,No,0.0,0.5,2,,,Armadale,30,8457
+Turquoise Bay,Beach,-22.1322,113.8583,WA,Exmouth,Moderate,4,5,Reeef,No,No,0.3,0.5,4,,,Exmouth,63,5578
+Lake Tuggeranong Beach,Freshwater,-35.427,149.087,ACT,Canberra,Moderate,3,3,Lake,No,No,0.0,1.5,1,,,Canberra,17,11960
+Lake Eacham,Freshwater,-17.2854,145.6394,QLD,Atherton Tablelands,Good,4,5,Lake,No,No,0.0,1.5,1,,,Yungaburra,6,684399
+Anglesea Main Beach,Beach,-38.412,144.183,VIC,Surf Coast,Good,4,4,Surf,Yes,No,0.9,1.2,3,Restricted,Red/Yellow,Anglesea,1,150615
+Squeaky Beach,Beach,-39.03,146.321,VIC,Wilson Prom,Moderate,3,5,Bay,No,No,0.3,0.6,2,Restricted,,Tidal River,1,143766
+Litchfield Wangi Falls,Freshwater,-13.168,130.683,NT,Litchfield,Moderate,3,5,Spring,No,No,0.0,0.2,1,,,Batchelor,65,23974
+Smiths Beach VIC,Beach,-38.509,145.277,VIC,Phillip Island,Moderate,3,4,Surf,Yes,No,1.0,1.2,3,Restricted,Red/Yellow,Cowes,7,124889
+Coles Bay Swim Zone,Beach,-42.121,148.293,TAS,Freycinet,Moderate,3,5,Bay,No,No,0.2,0.6,2,,,Coles Bay,1,92691
+Redcliffe Suttons Beach,Beach,-27.247,153.117,QLD,Moreton Bay,Good,4,4,Bay,Yes,No,0.2,0.6,2,Restricted,Red/Yellow,Redcliffe,1,208717

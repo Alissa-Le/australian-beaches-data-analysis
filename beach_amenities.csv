@@ -1,0 +1,304 @@
+Name,Has_Toilet,Has_Showers,BBQ,Playground,Car_Spaces
+Wonthaggi Basin Rockpool,No,No,No,No,5
+Royal National Park Garie Beach,Yes,No,Yes,Yes,5
+Surf Beach VIC,No,No,No,No,19
+Currumbin Beach,Yes,Yes,Yes,Yes,55
+Mooloolaba Beach,Yes,Yes,Yes,Yes,70
+Clare Valley Quarry Swim,No,No,No,No,0
+Manly Harbour Swim Spot QLD,Yes,No,Yes,Yes,6
+Middleton Surf Beach,Yes,No,Yes,No,30-50
+Crystal Creek Swimming Hole,No,No,No,No,0
+City Beach Perth,Yes,Yes,Yes,True,20
+Henley South Beach,Yes,Yes,Yes,Yes,40
+Clovelly Ocean Pool,Yes,Yes,Yes,Yes,50
+Safelink Cove Swim,No,No,No,No,12
+Hyams Beach,Yes,No,No,No,20
+Lake Bonney Barmera,Yes,No,Yes,Yes,25
+Horseshoe Bay Port Elliot,Yes,Yes,Yes,Yes,16
+Coogee Beach,Yes,Yes,Yes,Yes,130
+Gordon Dam Lake Gordon,No,No,No,No,0
+Port Vincent Swimming Enclosure,Yes,,Yes,Yes,8
+Bondi Icebergs Pool,Yes,Yes,No,No,14
+King George Sound Swim Spot,Yes,No,No,No,8
+Wanda Beach,Yes,No,Yes,No,45
+Clifton Beach,Yes,No,No,No,5
+Alva Beach,No,No,No,No,9
+Manuka Pool,Yes,Yes,No,No,11
+Venus Bay Main Beach,No,No,No,No,19
+Killen Falls Swimming Hole,No,No,No,No,0
+Burns Beach,No,No,No,No,19
+Horseshoe Bay Magnetic Island,Yes,Yes,Yes,Yes,20
+Macmasters Beach,Yes,No,Yes,Yes,5
+Paynesville Swim Beach,Yes,No,No,No,9
+Tathra Beach,Yes,Yes,Yes,Yes,30
+Airlie Main Beach,Yes,No,No,No,5
+Pambula Beach,Yes,Yes,Yes,Yes,25
+Bondi Beach,Yes,Yes,Yes,Yes,120
+1770 Foreshore,Yes,No,Yes,Yes,8
+Batemans Bay Swim Enclosure,Yes,No,Yes,Yes,5
+Inverloch Main Beach,Yes,Yes,Yes,Yes,25
+Urangan Pier Beach,Yes,No,Yes,Yes,20
+Waikerie Riverfront Beach,Yes,No,Yes,Yes,6
+Byron Main Beach,Yes,Yes,Yes,True,25
+Hillarys Boat Harbour Beach,Yes,Yes,Yes,Yes,40
+Cairns Esplanade Lagoon,Yes,Yes,Yes,Yes ,70
+Forster Main Beach,Yes,Yes,Yes,Yes,55
+Kingston Foreshore Lake Tuggeranong,Yes,No,Yes,Yes,35
+Norman Beach,Yes,No,Yes,Yes,16
+Cottesloe Beach,Yes,Yes,Yes,No,25
+Austinmer Beach,Yes,Yes,Yes,Yes,6
+Dromana Beach,Yes,Yes,Yes,True,30
+Joondalup Lake Yellagonga,No,No,No,No,5
+Turners Beach Yamba,Yes,No,No,No,13
+Howard Springs Swimming Pool,Yes,No,No,No,14
+St Kilda Beach,Yes,Yes,Yes,Yes,90
+Port Macquarie Town Beach,Yes,Yes,Yes,Yes,25
+Griffith Lake Wyangan,No,No,No,No,9
+Pottsville Main Beach,Yes,No,Yes,No,10
+Logans Beach Whale Viewing,No,No,No,No,19
+Sandy Bay Hobart,Yes,No,Yes,Yes,20
+Enoggera Reservoir Swim Area,Yes,No,No,No,14
+Ballina Lighthouse Beach,Yes,Yes,Yes,Yes,45
+Adventure Bay,Yes,No,No,No,9
+Alexandra Headland Beach,Yes,Yes,Yes,Yes,50
+Moonta Bay Jetty,Yes,No,Yes,Yes,10
+Lucinda Beach,No,No,No,No,19
+Fingal Bay Beach,Yes,Yes,Yes,Yes,45
+Collaroy Beach,Yes,Yes,Yes,Yes,30
+Greenfield Beach,Yes,No,No,No,12
+North Mission Beach,No,No,No,No,18
+Rocky Creek Dam Swim,No,No,No,No,0
+Dee Why Beach,Yes,Yes,Yes,Yes,55
+Greens Pool,No,No,No,No,15
+Arrawarra Beach,No,No,No,No,8
+Whitehaven Beach,No,No,No,No,0
+Blue Rock Lake Swim Spot,No,No,No,No,6
+Lake Moogerah Swim Spot,Yes,No,No,No,8
+Thredbo River Swim Spot,No,No,No,No,0
+North Narrabeen Rockpool,Yes,Yes,Yes,Yes,16
+Moana Beach,Yes,Yes,Yes,Yes,25
+Middleton Beach Albany,Yes,Yes,Yes,True,40
+Lake St Clair Swim Area,Yes,No,No,No,19
+Shellharbour Ocean Pool,Yes,No,No,No,12
+Portsea Front Beach,Yes,No,No,No,12
+Berry Springs Nature Park,Yes,No,No,No,14
+Merewether Beach,Yes,Yes,Yes,Yes,100?
+Bateau Bay Beach,Yes,No,Yes,Yes,10
+Flynns Beach,Yes,Yes,Yes,Yes ,16
+Renmark Riverfront Swim,Yes,No,Yes,Yes,16
+Brunswick Heads River Beach,Yes,No,Yes,Yes,7
+Brighton Le Sands Beach,Yes,Yes,Yes,Yes ,45
+The Entrance Ocean Baths,Yes,Yes,Yes,Yes,5
+Henley Beach,Yes,Yes,Yes,Yes,45
+Iluka Bluff Beach,No,No,No,No,7
+Torquay Front Beach,Yes,Yes,Yes,Yes,50
+Lake Eildon Bonnie Doon,No,No,No,No,8
+Noosa Main Bch,Yes,Yes,Yes,No,55
+South Mission Beach,No,No,No,No,15
+Brighton Beach,Yes,Yes,Yes,Yes ,40
+Angourie Point Beach,No,No,No,No,5
+Bronte Baths,Yes,Yes,Yes,Yes,5
+Shaws Bay Ballina,Yes,No,Yes,Yes,16
+Mallacoota Main Beach,No,No,No,No,17
+Turimetta Beach,No,No,No,No,14
+Southport Main Beach,Yes,Yes,Yes,Yes,120
+Lake Eildon Jerusalem Creek,No,No,No,No,0
+Scarborough Beach,Yes,Yes,Yes,True,80
+Kingston Beach TAS,Yes,Yes,Yes,Yes,55
+Lake Monger Swim Point,No,No,No,No,7
+Barwon Heads River Beach,Yes,No,Yes,Yes,20
+Freshwater Beach,Yes,,Yes,Yes ,40
+Bells Beach,No,No,No,No,6
+Emily Bay,Yes,No,No,No,15
+Port MacDonnell Beach,Yes,No,No,No,13
+Cowes Front Beach,Yes,Yes,Yes,Yes,45
+Streaky Bay Jetty Beach,Yes,No,No,No,17
+Ninety Mile Beach Golden Beach,No,No,No,No,0
+Elliston Waterloo Bay,No,No,No,No,16
+Sharpes Beach,No,No,No,No,13
+Bass Point Cove,No,No,No,No,15
+Victor Harbor Beach,Yes,Yes,Yes,Yes,55
+Bellerive Bluff Rockpool,No,No,No,No,14
+Lake Macquarie Warners Bay Baths,Yes,No,Yes,Yes,35
+Seal Rocks Beach,Yes,No,No,No,5
+South Beach Fremantle,Yes,,Yes,Yes,35
+Turners Beach Yamba,Yes,No,No,No,13
+Short Point Beach,No,No,No,No,12
+Semaphore Beach,Yes,Yes,Yes,Yes,140
+Port Fairy East Beach,Yes,Yes,Yes,Yes,45
+Lakes Entrance Main Beach,Yes,Yes,Yes,Yes,45
+Broulee Main Beach,Yes,Yes,Yes,True,20
+One Mile Beach NSW,Yes,No,Yes,Yes,45
+Barwon River Swim Geelong,No,No,No,No,12
+Mindil Beach,Yes,Yes,No,Yes,55
+Town Beach Broome,Yes,No,Yes,Yes,5
+Metung Boardwalk Swim,Yes,No,No,No,8
+Jetty Beach Coffs Harbour,Yes,Yes,Yes,Yes,20
+Durras North Beach,No,No,No,No,19
+City Beach Wollongong,Yes,Yes,Yes,Yes,90
+Shellharbour North Beach,Yes,No,Yes,No,55
+Corlette Foreshore,Yes,No,Yes,Yes,18
+Trial Bay Gaol Beach,Yes,No,Yes,Yes,8
+Main Beach Yamba,Yes,No,Yes,Yes,55
+Lake Burley Griffin East,Yes,No,No,Yes,45
+Wategos Beach,Yes,No,No,No,19
+Lake Burley Griffin Black Mountain,No,,No,No,8
+Ettalong Foreshore,Yes,No,Yes,Yes,25
+Port Noarlunga Beach,Yes,Yes,Yes,Yes ,50
+Centennial Parklands Duck Pond,No,No,No,No,0
+Lake MacDonald Swim Area,No,No,No,No,10
+Cable Beach,Yes,Yes,Yes,No,120
+Kurnell Silver Beach,Yes,No,No,No,16
+Wellington Point Jetty,Yes,No,Yes,Yes,16
+Blue Lake,Yes,No,No,No,20
+Geraldton Town Beach,Yes,No,Yes,Yes,35
+Christies Beach,Yes,Yes,Yes,Yes,45
+Moruya South Head Beach,No,No,No,No,12
+Airlie Beach Lagoon,Yes,Yes,Yes,Yes,35
+Greenhills Beach,No,No,No,No,15
+Albury Noreuil Park Beach,Yes,No,Yes,Yes,55
+Tuross Head Main Beach,Yes,No,Yes,Yes,15
+Seven Mile Beach TAS,No,No,No,No,8
+Clarkes Beach,Yes,No,No,No,18
+Lorne Main Beach,Yes,Yes,Yes,Yes,35
+Glenelg Beach,Yes,Yes,Yes,Yes,170
+Golden Beach,Yes,No,Yes,Yes,20
+Elephant Rocks,No,No,No,No,0
+Thirroul Beach,Yes,Yes,Yes,Yes,45
+Patonga Beach,Yes,No,Yes,Yes,13
+John Forrest National Park Pool,No,No,No,No,0
+Sandy Point Beach,No,No,No,No,12
+Corindi Beach,No,No,No,No,12
+Lake Alexandrina Swim,No,No,No,No,9
+Wilson Prom Tidal River Beach,Yes,No,Yes,Yes,12
+Barham Murray River Beach,No,No,No,No,9
+Clarence Aquatic Lagoon,Yes,Yes,Yes,Yes,55
+North Cottesloe Beach,Yes,No,Yes,No,50
+Lake Burley Griffin West,Yes,No,Yes,Yes,50
+Redhead Beach,Yes,No,Yes,Yes,20
+Kingston SE Jetty Beach,Yes,No,No,No,6
+Eden Aslings Beach,Yes,No,Yes,No,16
+Narrabeen Lagoon Swim,Yes,No,Yes,Yes,20
+Killcare Beach,Yes,No,Yes,Yes,7
+Cabarita Beach,Yes,No,Yes,No,8
+Moffat Beach,Yes,No,Yes,No,30
+The Strand Townsville,Yes,Yes,Yes,Yes,120
+Ramsgate Beach,Yes,No,Yes,Yes,45
+Bundeena Main Beach,Yes,No,Yes,Yes,9
+South Perth Foreshore Swim,Yes,No,Yes,Yes,20
+Point Cartwright Beach,No,No,No,No,5
+Lake Jindabyne Swim Area,Yes,No,No,No,7
+Echuca Moama River Beach,Yes,,Yes,Yes ,25
+Wallaroo North Beach,Yes,No,Yes,Yes,50
+Little Beach Tomaree,No,No,No,No,11
+Leighton Beach,Yes,No,No,No,30
+Lake Weyba Access,No,No,No,No,15
+Lake Tabourie Swim,No,No,No,No,9
+Rye Front Beach,Yes,No,Yes,True,45
+Bellerive Beach,Yes,Yes,Yes,Yes,6
+Wineglass Bay,No,No,No,No,0
+Shorncliffe Beach,No,No,No,No,18
+Noosaville River Foreshore,Yes,No,Yes,Yes ,25
+West Beach Adelaide,Yes,Yes,Yes,Yes ,50
+Maroon Dam Swim Area,No,,No,No,0
+Lake Tyers Beach,No,No,No,No,19
+Terania Creek Waterhole,No,No,No,No,0
+Somerset Dam Swimming,Yes,No,No,No,15
+Emerald Beach,Yes,No,Yes,Yes,16
+Bondi Beach ,Yes,Yes,Yes,Yes,120
+South Golden Beach,No,No,No,No,15
+Derwent River Swim Sandy Bay,No,No,No,No,17
+Blue Pool Bermagui,Yes,No,No,No,14
+New Brighton Beach,No,No,No,No,15
+Hervey Bay Scarness Beach,Yes,Yes,Yes,Yes,30
+South West Rocks Main Beach,Yes,Yes,Yes,Yes,50
+Woodgate Beach,Yes,No,Yes,Yes,5
+Kangaroo Point Riverfront,No,No,No,No,16
+Lesmurdie Falls Pool,No,No,No,No,0
+Park Beach Coffs Harbour,Yes,Yes,Yes,Yes,40
+Back Beach Bunbury,Yes,No,Yes,No,20
+Emu Point Beach,Yes,No,Yes,Yes,11
+Four Mile Beach Port Douglas,Yes,Yes,Yes,Yes,50
+Trigg Beach,Yes,No,Yes,No,40
+Lake Augusta Swim Spot,No,No,No,No,0
+Holloways Beach,Yes,No,Yes,No,13
+Kingston Foreshore Swim Spot,Yes,No,No,No,6
+Alpine Creek Swim Hole,No,No,No,No,0
+Red Rock River Mouth,No,No,No,No,12
+Baroon Pocket Dam,No,No,No,No,0
+Portsea Back Beach,No,,No,No,6
+Sorrento Front Beach,Yes,Yes,Yes,Yes,6
+North Wollongong Beach,Yes,Yes,Yes,Yes,20
+Brisbane River Sherwood,No,No,No,No,7
+Apollo Bay Beach,Yes,Yes,Yes,Yes,20
+Wivenhoe Dam Swimming,Yes,No,No,No,10
+Hat Head Beach,Yes,No,Yes,No,13
+Dee Why Rockpool,Yes,Yes,Yes,Yes ,13
+Warrnambool Main Beach,Yes,Yes,Yes,Yes,20
+Yorke Peninsula Berry Bay,No,No,No,No,19
+Ocean Grove Main Beach,Yes,Yes,Yes,Yes,30
+Mindarie Marina Swim Zone,Yes,No,Yes,Yes,8
+Merimbula Main Beach,Yes,Yes,Yes,Yes,25
+Caloundra Kings Beach,Yes,Yes,Yes,Yes,190
+Main Beach Stradbroke,No,No,No,No,17
+Molonglo River Swim Spot,No,No,No,No,5
+Tomakin River Mouth,No,No,No,No,5
+Seven Mile Beach,Yes,No,No,No,6
+Bitter Springs,No,No,No,No,0
+Nobbys Beach Newcastle,Yes,Yes,Yes,Yes,35
+Florence Falls Plunge Pool,Yes,No,No,No,13
+Agnes Water Beach,Yes,No,Yes,Yes ,14
+Clifton Beach QLD,Yes,No,Yes,No,16
+Yarrawonga Foreshore,Yes,No,Yes,Yes,20
+Lake Ginninderra Swim Spot,Yes,No,Yes,Yes,40
+Evans Head Main Beach,Yes,No,Yes,No,14
+Tuncurry Beach,Yes,No,Yes,No,35
+Boat Harbour NSW,No,No,No,No,5
+Avoca Beach,Yes,Yes,Yes,Yes,20
+Rockingham Beach,Yes,Yes,Yes,Yes,160
+Royal National Park Wattamolla Lagoon,Yes,No,No,Yes,10
+Southbank Lagoon Brisbane,Yes,Yes,Yes,Yes,130
+San Remo Jetty Beach,Yes,No,Yes,Yes ,15
+Port Campbell Beach,Yes,No,No,Yes,9
+Warnbro Beach,No,No,No,No,14
+Palm Beach,Yes,No,Yes,No,20
+Gippsland Lakes Swim Area,Yes,No,No,No,15
+Pine Lake Elanora,Yes,No,No,No,14
+Town Green Beach Launceston,No,No,No,No,16
+Boat Harbour Beach,Yes,No,No,No,5
+Kirra Beach,Yes,Yes,Yes,No,45
+Robe Town Beach,Yes,No,No,No,16
+Umina Beach,Yes,,Yes,Yes,70
+Shoal Bay Beach,Yes,Yes,Yes,Yes,45
+Wooli Main Beach,No,No,No,No,11
+Murray Bridge Sturt Reserve,Yes,No,Yes,Yes ,50
+Matilda Bay Reserve,Yes,No,Yes,Yes,25
+Ellis Beach,No,No,No,No,11
+Manly Beach,Yes,Yes,Yes,Yes,60
+Trinity Beach,Yes,Yes,Yes,Yes,30
+Mount Martha Beach,Yes,Yes,Yes,Yes,55
+Wagga Beach,Yes,No,Yes,Yes ,30
+Cotter Bend Swim Area,No,No,No,No,12
+Surfers Paradise Beach,Yes,Yes,Yes,Yes,190
+Maroochydore Beach,Yes,Yes,Yes,Yes,180
+Burleigh Heads Beach,Yes,Yes,Yes,Yes,45
+Broken Bay River Beach,No,No,No,No,0
+Marlo Estuary Beach,No,No,No,No,14
+Figure Eight Pools,No,No,No,No,0
+Palm Cove Beach,Yes,Yes,Yes,Yes,30
+Serpentine Falls,No,No,No,No,0
+Turquoise Bay,No,No,No,No,6
+Bar Beach Newcastle,Yes,,Yes,Yes,55
+Lake Tuggeranong Beach,Yes,No,Yes,Yes,20
+Lake Illawarra Reddall Reserve,Yes,No,Yes,Yes,50
+Cronulla Main Beach,Yes,Yes,Yes,Yes,170
+Lake Eacham,Yes,No,No,No,16
+Anglesea Main Beach,Yes,Yes,Yes,Yes,35
+Squeaky Beach,No,No,No,No,0
+Maroubra Beach,Yes,Yes,Yes,Yes ,110
+Litchfield Wangi Falls,Yes,No,No,No,9
+Smiths Beach VIC,Yes,No,Yes,No,19
+Coles Bay Swim Zone,Yes,No,No,No,7
+Clyde River Swim Spot,No,No,No,No,17
+Short Point Beach,No,No,No,No,12
+Redcliffe Suttons Beach,Yes,Yes,Yes,Yes,45
