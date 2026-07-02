@@ -13,7 +13,7 @@ Answer: yes, and the stats back it up (ANOVA p < 0.05, correlation = 0.69).
 | `climate_summary_by_region.csv` | Regional climate data (rainfall, sea temp, extreme heat days) |
 | `data_except_nsw.csv` | Beach records for every state except NSW |
 | `data_nsw.csv` | Beach records for NSW (needed a State column added manually) |
-| `data_glossary.pdf` | Reference doc defining each column, its data type and valid value ranges — this is what I checked everything against during cleaning |
+| `data_glossary.docx` | Reference doc defining each column, its data type and valid value ranges — this is what I checked everything against during cleaning |
 
 ## Datasets & what was wrong with them
 Below is some of the issues I ran into:
